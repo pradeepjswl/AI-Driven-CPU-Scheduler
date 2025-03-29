@@ -95,10 +95,6 @@ Feel free to:
 - 💡 Propose new features
 - 🔧 Submit pull requests
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - Built with [Streamlit](https://streamlit.io)
